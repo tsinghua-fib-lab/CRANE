@@ -1,5 +1,5 @@
 # CRANE
-Source code for *Counterfactual RANdom-walk based Embedding* (CRANE) algorithm in **Counterfactual Mobility Network Embedding Reveals Prevalent Accessibility Gaps in U.S. Cities**.
+Source code for *Counterfactual RANdom-walk based Embedding* (CRANE) algorithm in **Counterfactual Mobility Network Embedding Reveals Prevalent Accessibility Gaps in U.S. Cities**. [Link](https://www.nature.com/articles/s41599-023-02570-5)
 
 ## Counterfactual Random Walk
 ### Code and File
