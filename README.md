@@ -22,3 +22,17 @@ Run following code to generate embedding vectors for POI categories, POIs, CBGs,
 ```
 python CRANE_embedding.py -embedding_dim 64 -batch_size 10000 -city_id 3 -seed 1999 -percentile_num 5 -threshold 2.5 -l2 0.01 -l2_CBG 0.0001
 ```
+## Citation
+If you find this code useful, please consider citing:
+```bibtex
+@article{zhang2024counterfactual,
+  title={Counterfactual mobility network embedding reveals prevalent accessibility gaps in US cities},
+  author={Zhang, Yunke and Xu, Fengli and Chen, Lin and Yuan, Yuan and Evans, James and Bettencourt, Luis and Li, Yong},
+  journal={Humanities and Social Sciences Communications},
+  volume={11},
+  number={1},
+  pages={1--12},
+  year={2024},
+  publisher={Springer Nature}
+}
+```
